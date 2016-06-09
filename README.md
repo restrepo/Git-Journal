@@ -5,7 +5,7 @@ The Author(s) clone our LaTeX repo-template (which may include additional CODE l
 
 * Submit the article is simply add our Editor user in repo Collaborator team
 * The (open) review are justs commits in the repo
-* Once accepted the published version is one special relesase with the DOI as the tag
+* Once accepted the published version is one special git release with the DOI as the tag
 * The Accepted articles are listed in the official web page of the GIT-Journal
 
 
