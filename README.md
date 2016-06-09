@@ -8,3 +8,8 @@ The Author(s) clone our LaTeX repo-template (which mya include additional CODE l
 * Once accepted the published version is one special relesase with the DOI as the tag
 * The Accepted articles are listed in the official web page of the GIT-Journal
 
+
+TODO:
+* Optimize the virtual machine engine (Add LaTeX to the [official languagae list](https://docs.travis-ci.com/user/languages))
+* Check the [travis-ci cache options](https://blog.travis-ci.com/2016-05-03-caches-are-coming-to-everyone) 
+
