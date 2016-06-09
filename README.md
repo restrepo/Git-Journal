@@ -1,7 +1,7 @@
 # Git-Journal
 Project to create a fully contained Journal 
 
-The Author(s) clone our LaTeX repo-template (which mya include additional CODE like jupyter notebooks). The PDF is created as in [HowTo-Deploy-LaTeX-Documents](https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents)
+The Author(s) clone our LaTeX repo-template (which mya include additional CODE like jupyter notebooks). The PDF is created as in [HowTo-Deploy-LaTeX-Documents](https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents) or [this other repo](https://github.com/restrepo/beyond-the-standard-model)
 
 * Submit the article is simply add our Editor user in repo Collaborator team
 * The (open) review are justs commits in the repo
